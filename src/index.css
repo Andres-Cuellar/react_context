@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+}
+
+#sticky-sidebar {
+  position: fixed;
+  max-width: 20%;
+}
+
+.icon-task {
+  height: 30px;
+  width: auto;
+}
+
+.popup-content {
+  border-radius: 0;
+  padding: 0.5rem;
+}
+
+.popup-overlay {
+  background-color: rgb(161, 38, 38);
+}
